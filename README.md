@@ -1,4 +1,4 @@
-### Hi 👋, I'm Lauren Eaves
+### Hi, I'm Lauren 👋
 
 - 🔭 I’m currently working on a complete, responsive Admin Dashboard
 - 🌱 I’m currently learning JavaScript and React
