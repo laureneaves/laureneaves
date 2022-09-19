@@ -10,3 +10,4 @@
 
 ### View my projects:
 - [Admin Dashboard](https://github.com/laureneaves/admin_dashboard)
+- [JavaScript Accordion](https://github.com/laureneaves/javascript_accordion)
