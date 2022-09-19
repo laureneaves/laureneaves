@@ -7,3 +7,6 @@
 ### My skills:
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,py)](https://skills.thijs.gg)
+
+### View my projects:
+- [Admin Dashboard](https://github.com/laureneaves/admin_dashboard)
