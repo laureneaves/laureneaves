@@ -9,6 +9,6 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,py)](https://skills.thijs.gg)
 
 ### View my projects:
-- [CRM Dashboard](https://github.com/laureneaves/crm_dashboard) - **HTML, CSS, JS**
-- [Sales Dashboard](https://github.com/laureneaves/admin_dashboard) - **HTML, CSS, JS**
+- [CRM Dashboard](https://github.com/laureneaves/admin_dashboard) - **HTML, CSS, JS**
+- [Sales Dashboard](https://github.com/laureneaves/sales_dashboard) - **HTML, CSS, JS**
 - [JavaScript Accordion](https://github.com/laureneaves/javascript_accordion) - **HTML, CSS, JS**
