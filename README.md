@@ -8,5 +8,5 @@
 HTML, CSS, JS
 
 ### View my projects:
-- [CRM Dashboard](https://github.com/laureneaves/admin_dashboard) - **HTML, CSS, JS**
-- [JavaScript Accordion](https://github.com/laureneaves/javascript_accordion) - **HTML, CSS, JS**
+- [Customer Relationship Management (CRM) Dashboard](https://github.com/laureneaves/admin_dashboard) - **HTML, CSS, JS**
+- [Website FAQ Page Accordion](https://github.com/laureneaves/javascript_accordion) - **HTML, CSS, JS**
