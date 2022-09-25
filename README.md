@@ -10,5 +10,4 @@
 
 ### View my projects:
 - [CRM Dashboard](https://github.com/laureneaves/admin_dashboard) - **HTML, CSS, JS**
-- [Sales Dashboard](https://github.com/laureneaves/sales_dashboard) - **HTML, CSS, JS**
 - [JavaScript Accordion](https://github.com/laureneaves/javascript_accordion) - **HTML, CSS, JS**
