@@ -6,7 +6,7 @@
 
 ### My skills:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,py)](https://skills.thijs.gg)
+[![My Skills](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)]
 
 ### View my projects:
 - [CRM Dashboard](https://github.com/laureneaves/admin_dashboard) - **HTML, CSS, JS**
