@@ -1,6 +1,6 @@
 ### Hi, I'm Lauren 👋
 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- I’m currently learning HTML, CSS, and JavaScript.
 
 ### My skills:
 
